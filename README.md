@@ -7,8 +7,8 @@ Create a blurred images, take a screenshot, make a image with color...
 </p>
 
 [![Build Status](https://api.travis-ci.org/NZN/UIImage-Helpers.png)](https://api.travis-ci.org/NZN/UIImage-Helpers.png)
-[![Cocoapods](https://cocoapod-badges.herokuapp.com/v/UIImage-Helpers/badge.png)](http://beta.cocoapods.org/?q=UIImage-Helpers)
-[![Cocoapods](https://cocoapod-badges.herokuapp.com/p/UIImage-Helpers/badge.png)](http://beta.cocoapods.org/?q=UIImage-Helpers)
+[![CocoaPods](https://cocoapod-badges.herokuapp.com/v/UIImage-Helpers/badge.png)](http://beta.cocoapods.org/?q=UIImage-Helpers)
+[![CocoaPods](https://cocoapod-badges.herokuapp.com/p/UIImage-Helpers/badge.png)](http://beta.cocoapods.org/?q=UIImage-Helpers)
 [![Analytics](https://ga-beacon.appspot.com/UA-48753665-1/NZN/UIImage-Helpers/README.md)](https://github.com/igrigorik/ga-beacon)
 
 ## Requirements
@@ -23,7 +23,7 @@ You will need LLVM 3.0 or later in order to build UIImage-Helpers.
 
 ## Adding UIImage-Helpers to your project
 
-### Cocoapods
+### CocoaPods
 
 [CocoaPods](http://cocoapods.org) is the recommended way to add UIImage-Helpers to your project.
 
